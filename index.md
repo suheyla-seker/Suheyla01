@@ -7,8 +7,11 @@
 ## Assignment3
 [Diamond Price Estimation](Assignment3.html)
 
-## Progress Journal of Our Project Group
+## Progress Journal of Our Project Group for IE48A
 [Group Bıktık-R'tık's Progress Journal](https://pjournal.github.io/boun01g-biktik-r-tik/)
+
+## Progress Journal of Our Project Group for IE360
+[Trendyol Project]()
 
 ## In Class Exercises
 - [AirBnb PCA Example](InClassExercises/AirBnb-PCA.html)
