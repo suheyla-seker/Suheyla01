@@ -11,7 +11,7 @@
 [Group Bıktık-R'tık's Progress Journal](https://pjournal.github.io/boun01g-biktik-r-tik/)
 
 ## Progress Journal of Our Project Group for IE360
-[Trendyol Project]()
+[Trendyol Project](https://bu-ie-360.github.io/spring20-Suheylaseker/)
 
 ## In Class Exercises
 - [AirBnb PCA Example](InClassExercises/AirBnb-PCA.html)
